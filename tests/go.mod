@@ -1,4 +1,4 @@
-module github.com/descomplicando-terraform/rogeriotadim_magalu_vpc
+module github.com/descomplicando-terraform/rogeriotadim_magalu_ssh_key_pair
 
 go 1.22.8
 
